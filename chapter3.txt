@@ -1,0 +1,1 @@
+This is my self learning attempt to add, commit and pish the code in git hub
